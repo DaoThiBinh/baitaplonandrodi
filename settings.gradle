@@ -1,0 +1,2 @@
+rootProject.name='TTCNCalendar'
+include ':app'
